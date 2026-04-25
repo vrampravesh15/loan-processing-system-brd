@@ -60,7 +60,7 @@ The existing loan process is manual, paper-based, and dependent on multiple hand
 ## Outcome
 This project demonstrates business analysis capability in documenting scope, requirements, risks, non-functional expectations, and business impact for a banking workflow transformation.
 
-## Screenshots
+## Assets
 ![Cover](assets/Cover.png)
 ![Functional Requirements](assets/functional-requirements.png)
 ![Problem Statement](assets/problem-statement.png)
